@@ -219,6 +219,8 @@ Key source families include:
 
 ### Official Sources
 
+- **[metalbear-co/skills](https://github.com/metalbear-co/skills)**: Official mirrord skills source for the `mirrord` skill - run a local process inside a live Kubernetes pod's network, env and traffic, with confirmation before traffic-stealing or cluster-modifying steps (MIT).
+
 - **[beatra-ai/viral-video-remake-skill](https://github.com/beatra-ai/viral-video-remake-skill)**: Official Beatra source for the `viral-video-teardown-remake` skill - paid, hosted work installed from a digest-pinned 0.3.1 archive byte-identical to commit `46f7875` with self-update disabled before first use (MIT-0).
 
 - **[beatra-ai/photo-to-anime-skill](https://github.com/beatra-ai/photo-to-anime-skill)**: Official Beatra source for the `ai-photo-restyler` skill - paid, hosted work installed from a digest-pinned 0.1.4 archive byte-identical to commit `87bc4c4` with self-update disabled before first use (MIT-0).
